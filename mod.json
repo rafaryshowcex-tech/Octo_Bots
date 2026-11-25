@@ -1,0 +1,20 @@
+{
+  "geode": "v6.0.0",
+  "gd": {
+    "win": "2.2091",
+    "android": "2.2091"
+  },
+  "id": "kakaja88.octo-bots",
+  "name": "Octo Bots",
+  "version": "v1.0.0",
+  "developer": "Kakaja88",
+  "description": "Macro bot with recording, replay, save/load/clear, noclip, and rendering.",
+  "settings": {
+    "noclip": {
+      "type": "bool",
+      "name": "Noclip",
+      "description": "Don't die on hazards or collisions.",
+      "default": false
+    }
+  }
+}
